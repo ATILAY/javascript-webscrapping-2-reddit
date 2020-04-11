@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer2",
+  "version": "1.0.0",
+  "description": "webscrapping2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
